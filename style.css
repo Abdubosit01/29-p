@@ -1,0 +1,283 @@
+
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+span{
+    display: flex;
+    align-items: center;
+gap: 40px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+  gap: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+button{
+    width: 256px;
+    height: 37px;
+    background-color:#FC004A ;
+    border-radius: 13px;
+    color: white;
+    border: none;
+}
+
+
+
+.m{
+    width: 95%;
+    margin-left: 34px;
+    margin-top: 100px;
+}
+
+
+
+main{
+    margin-top: 150px;
+}
+
+
+h2{
+   color: #262626;
+    font-size: 33px;
+}
+
+.car{
+    width: 235px;
+    height: 391px;
+    box-shadow: 0px 4px 6px -4px #0000001A;
+
+box-shadow: 0px 10px 15px -3px #0000001A;
+
+}
+
+p{
+    color: #FC004A;
+}
+.btn{
+    background-color: #FC004A;
+    border: none;
+    border-radius: 10px;
+    margin-left: 80%;
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.lol{
+    display: none;
+}
+
+
+
+
+
+
+
+@media(max-width:768px){
+    .kil{
+        display: none;
+    }
+    .m{
+        margin-left: 20px;
+    }
+}
+
+
+
+
+@media(max-width:440px){
+    nav{
+        display: none;
+    }
+    .lol{
+        display: block;
+    }
+  .m{
+    margin-left: 10px;
+  }
+  
+  footer{
+    flex-direction: column;
+    margin-left: -150px;
+  }
+}
+
+
+
+
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    color: rgb(107, 104, 104);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
